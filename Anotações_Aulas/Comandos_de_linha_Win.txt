@@ -1,0 +1,17 @@
+Comandos DOS – CLI – Comand line interface.
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+cd – Entrar num diretório especifico;
+dir – mostra todas – Listar  - as pastas e arquivos de um diretório;
+cd .. – Volta um nível de diretórios;
+cls – limpa tela; 
+TAB – Autocompleta nomes;
+Mkdir  –  cria pasta no diretório;
+echo – printa no terminal uma frase digitada;
+echo oioioikkkk > oikkk.txt – Esse código printa no terminal a frase “oioioikkkk” e depois verifica se existe um arquivo chamado oikkk.txt, se houver ele coloca essa frase dentro dele, se não, ele cria o arquivo oikkk.txt e coloca a frase dentro dele;
+del – deleta tudo que tem dentro de uma pasta;
+rmdir  pasta /s /q – Apaga completamente uma pasta;
+mv – move um arquivo:  mv TortaDeBolacha.md ./receitas/ -> move o arquivo “TortaDeBolacha.md” para a o diretório “receitas”;
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////

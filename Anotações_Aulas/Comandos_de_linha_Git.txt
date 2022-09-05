@@ -1,0 +1,11 @@
+
+////////////////////////////////////////////////////////////////////////////////////////////
+
+GIT comandos:
+
+Push – envia projeto para repositório online git;
+Pull – pucha projeto do repositório online para um diretório local
+Commit – prepara o projeto par ser enviado.
+Clone – basta adicionar a url do projeto alvo que esta no github e o projeto alvo sera baixado para a máquina local
+
+//////////////////////////////////////////////////////////////////////////////

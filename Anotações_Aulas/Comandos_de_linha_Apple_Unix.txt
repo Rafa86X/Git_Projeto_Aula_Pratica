@@ -1,0 +1,16 @@
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Comandos UNIX – Linux/Aple
+
+ls – mostra todas – Listar  - as pastas e arquivos de um diretório;
+cd – Entrar num diretório especifico;
+cd .. – Volta um nível de diretórios;
+clear – limpa a tela; CTRL+L;
+sudo su – pedir permição para criar e editar diretórios;
+Mkdir  –  cria pasta no diretório;
+echo – printa no terminal uma frase digitada;
+echo oioioikkkk > oikkk.txt – Esse código printa no terminal a frase “oioioikkkk” e depois verifica se existe um arquivo chamado oikkk.txt, se houver ele coloca essa frase dentro dele, se não, ele cria o arquivo oikkk.txt e coloca a frase dentro dele;
+rm -rf  pasta/ – Apaga completamente uma pasta;
+
+////////////////////////////////////////////////////////////////////////////////////////////
